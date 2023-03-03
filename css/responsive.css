@@ -68,6 +68,7 @@
 @media (max-width: 575px) {
     .header {
         padding: 20px 0px;
+        object-fit: cover;
     }
     .text_align_right {
         margin-top: -35px;
@@ -86,6 +87,7 @@
         max-width: 137px;
     }
     #myCarousel .carousel-control-next {
+        object-fit: cover;
         left: 20.4%;
     }
     .white {
@@ -99,6 +101,7 @@
         padding-right: 0;
     }
     #myCarousel .carousel-control-prev {
+        object-fit: cover;
         left: 2%;
     }
     .about .titlepage h2 {
@@ -125,5 +128,6 @@
         display: block;
     }
     .banner_main strong {
+        object-fit: cover;
         right: 0%;
     }
